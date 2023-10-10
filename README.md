@@ -19,9 +19,11 @@ The SVG generated can be opened and viewed in a browser.
 
 Github repository: https://github.com/EBOX26/SVG-logo-maker.git
 
-Walkthrough video:
+Walkthrough video: https://watch.screencastify.com/v/LBpXZnO6F2Xao8cBE7Wr
 
-Screenshots: ![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/c52312e9-6c3c-4f25-879a-cb99d3428d19)
+Screenshots:
+
+![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/c52312e9-6c3c-4f25-879a-cb99d3428d19)
 ![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/cf90ef90-0931-42ab-9ac0-a0b3e243091a)
 ![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/0c54866c-2db5-4baf-99ea-7c2e32cfa0c8)
 ![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/3b8d4a20-5d0d-4a3f-a82c-99cb80dfd9d8)
