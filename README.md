@@ -21,5 +21,14 @@ Github repository: https://github.com/EBOX26/SVG-logo-maker.git
 
 Walkthrough video:
 
-Screenshots: https://github.com/EBOX26/SVG-logo-maker/blob/main/examples/SVG-ex-1.png
+Screenshots: ![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/c52312e9-6c3c-4f25-879a-cb99d3428d19)
+![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/cf90ef90-0931-42ab-9ac0-a0b3e243091a)
+![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/0c54866c-2db5-4baf-99ea-7c2e32cfa0c8)
+![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/3b8d4a20-5d0d-4a3f-a82c-99cb80dfd9d8)
+![image](https://github.com/EBOX26/SVG-logo-maker/assets/139289311/a00a9037-d744-411a-aa37-99beee73650a)
+
+
+
+
+
 
